@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/shield",
+      "model": {
+        "type": "minecraft:shield"
+      }
+    },
+    "entries": [
+      {
+        "threshold": 1009.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/mirrorshield"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_sword"
+    },
+    "entries": [
+      {
+        "threshold": 1001.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/dashsword"
+        }
+      },
+      {
+        "threshold": 1002.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/bloomsword"
+        }
+      },
+      {
+        "threshold": 1003.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/wanesword"
+        }
+      },
+      {
+        "threshold": 1004.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/fireblastsword"
+        }
+      },
+      {
+        "threshold": 1006.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lightningsword"
+        }
+      },
+      {
+        "threshold": 1010.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/spidersword"
+        }
+      },
+      {
+        "threshold": 1011.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/giantsword"
+        }
+      },
+      {
+        "threshold": 1014.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/lightsword"
+        }
+      },
+      {
+        "threshold": 1015.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/magicsword"
+        }
+      }
+    ]
+  }
+}
