@@ -43,6 +43,13 @@
         }
       },
       {
+        "threshold": 1009.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/timesword"
+        }
+      },
+      {
         "threshold": 1010.0,
         "model": {
           "type": "minecraft:model",
@@ -54,6 +61,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/giantsword"
+        }
+      },
+      {
+        "threshold": 1012.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/firststrikesword"
         }
       },
       {
